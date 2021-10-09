@@ -1,0 +1,13 @@
+{"users": {"adarsh":"3809ddoih39"},
+"categories" : {"Waste Management":3,"Household Work":3,"Helping Animals":3},
+"acts" : [{"actId":1,"username":"user1","timestamp":"2019-02-09:12-09-15","caption":"People Cleaning Dumping Areas","categoryName":"Waste Management","upvotes":0,"imgB64":""},
+		  {"actId":2,"username":"user2","timestamp":"2019-02-09:12-09-15","caption":"A Boy Cleaning The Roads","categoryName":"Waste Management","upvotes":0,"imgB64":""},
+		  {"actId":3,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"Experts giving Seminar on Waste-Management","categoryName":"Waste Management","upvotes":0,"imgB64":""},
+		{"actId":4,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"A Boy Helping Mother in the Kitchen","categoryName":"Household Work","upvotes":0,"imgB64":""},
+	{"actId":5,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"A Girl Cleaning her House","categoryName":"Household Work","upvotes":0,"imgB64":""},
+{"actId":6,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"A Girl Helping her Mom Wash Clothes","categoryName":"Household Work","upvotes":0,"imgB64":""},
+{"actId":7,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"Man feeding Stray Dogs Food","categoryName":"Helping Animals","upvotes":0,"imgB64":""},
+{"actId":8,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"People Organising Adoption Drives","categoryName":"Helping Animals","upvotes":0,"imgB64":""},
+{"actId":9,"username":"user3","timestamp":"2019-02-09:12-09-15","caption":"Boy Adopting Stray Puppy Instead of Buying a Fancy Breed","categoryName":"Helping Animals","upvotes":0,"imgB64":""}
+]
+}
